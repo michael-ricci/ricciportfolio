@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Ricci | Work</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <nav>
+        <a href="../index.html">Home</a>
+        <a href="../about/index.html">About Me</a>
+        <a href="index.html">Work</a>
+        <a href="../resume/index.html">Resume</a>
+    </nav>
+
+    <div class="container">
+        <h1>My Work</h1>
+        <h2>Projects and professional interests</h2>
+
+        <div class="project-card">
+            <h3>Athlete Branding & NIL Strategy</h3>
+            <p>
+                I have worked on building athlete brand positioning, outreach strategy, and partnership concepts that connect athletes with brands in authentic ways.
+                This includes campaign ideas, brand pitches, and content-driven marketing strategy.
+            </p>
+        </div>
+
+        <div class="project-card">
+            <h3>Sports Media & Communication</h3>
+            <p>
+                My background in journalism and media has helped me develop strong writing, interviewing, and storytelling skills. 
+                I am interested in the intersection of media, influence, and sports business.
+            </p>
+        </div>
+
+        <div class="project-card">
+            <h3>Business Development & Relationship Building</h3>
+            <p>
+                I enjoy the process of reaching out, making connections, and turning ideas into real opportunities. 
+                Much of my work reflects my interest in sales, negotiation, and helping people and brands grow.
+            </p>
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2026 Michael Ricci. All rights reserved.
+    </footer>
+</body>
+</html>
